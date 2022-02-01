@@ -1,5 +1,3 @@
-// port to go
-
 package main
 
 import (
