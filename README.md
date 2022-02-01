@@ -9,7 +9,7 @@ If anyone wants to figure out the right way to extract the `answers` dict from t
 Apache 2.0.  Help yourself. Not my fault if you break stuff.
 
 ## Getting
-Binaries are available in the [src](src/) directory for Mac and Windows.  I don't have a Windows box so the Windows binary is a guess.
+Binaries are available in the [bin](bin/) directory for Mac and Windows.  I don't have a Windows box so the Windows binary is a guess.
 
 ## Using
 
