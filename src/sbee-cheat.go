@@ -36,9 +36,4 @@ func main() {
 	fmt.Printf("pangrams %v\n", words["pangrams"])
 	fmt.Printf("answers %v (%d)\n", words["answers"], len(words["answers"]))
 
-	// 	res = {
-	// 	'pangrams': [x for x in re.findall('\w+', m.group(1))],
-	// 	'answers': [x for x in re.findall('\w+', m.group(2))]
-	// }
-
 }
