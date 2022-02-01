@@ -42,4 +42,4 @@ Linux (Raspberry pi):
 
 There's also `make all` and `make clean`.
 
-I tried building it for WASM and I could get a binary out but couldn't figure out how to run it in the browser,  The build variables are `GOOS=js GOARCH=wasm`.
+I tried building it for WASM and I could get a binary out but couldn't figure out how to run it in the browser.  The build variables are `GOOS=js GOARCH=wasm`.
