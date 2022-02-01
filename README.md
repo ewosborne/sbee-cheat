@@ -34,4 +34,10 @@ Intel Mac:
 M1 Mac:
 `make m1`
 
+Linux (x86):
+`make linux_x86`
+
+Linux (Raspberry pi):
+`make linux_rpi`
+
 There's also `make all` and `make clean`.
