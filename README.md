@@ -1,9 +1,9 @@
 # sbee-cheat
 
-This allows you to cheat at the NY Times Spelling Bee game by extracting the answers from the game itself. It is just a fun toy and will be trivial for the nytimes game devs to break.  
+This allows you to cheat at the NY Times Spelling Bee game by extracting the answers from the game itself. It is just a fun toy and will be trivial for the nytimes game devs to render inoperable.  
 
 *PLEASE NOTE*: I'm not a very good `go` programmer.  This isn't a very good `go` program. But it works.
-If anyone wants to figure out the right way to extract the `answers` dict from the HTML source, rather than a regex, I welcome a PR.
+If anyone wants to figure out the right way to extract the answers dict from the HTML source, rather than a regex, I welcome a PR.
 
 ## License
 Apache 2.0.  Help yourself. Not my fault if you break stuff.
